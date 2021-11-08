@@ -1,7 +1,0 @@
-id:
-Title:
-Steps to reproduce:
-Environment:
-Severity Priority:
-Assignee:
-Attachments:
